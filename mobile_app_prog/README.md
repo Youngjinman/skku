@@ -1,3 +1,5 @@
+## 사용 툴 -> Android Studio
+## 사용 언어 -> kotlin
 ## proj1
 * wordle game
 * 주어진 wordle_words.txt에서 랜덤적으로 단어를 선정하여 그것을 맞히는 게임
