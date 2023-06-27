@@ -1,7 +1,7 @@
 ## proj1
 * wordle game
 * 주어진 wordle_words.txt에서 랜덤적으로 단어를 선정하여 그것을 맞히는 게임
-* <img width= "50%" src = "https://user-images.githubusercontent.com/105158603/249042463-907065aa-8aaf-49bd-a7f9-de9583e50750.png"/>
+<img width= "20%" src = "https://user-images.githubusercontent.com/105158603/249042463-907065aa-8aaf-49bd-a7f9-de9583e50750.png"/>
 
 
 ## proj2
